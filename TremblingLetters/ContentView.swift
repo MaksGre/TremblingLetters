@@ -5,8 +5,6 @@
 //  Created by m.grebenozhko on 29.08.2023.
 //
 
-// Реализовано по материалам https://developer.apple.com/tutorials/sample-apps/animatingshapes
-
 import SwiftUI
 
 struct ContentView: View {
